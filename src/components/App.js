@@ -33,7 +33,7 @@ const ChildComponent = ( {showModal, setShowModal}) => {
       {showModal ? (
         <div>
           <h3>Modal Content</h3>
-          <p>This is a modal content</p>
+          <p>This is the modal content.</p>
         </div>
       ): null}
     </div>
